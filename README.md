@@ -1,4 +1,4 @@
-# TWAIN SANE Interface for MacOS X
+# TWAIN SANE Interface for MacOS Sierra
 
 Repo contains compiled binaries for MacOS Sierra.  
 All sources get from [Sane] Official site
